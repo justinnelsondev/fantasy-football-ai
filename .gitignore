@@ -1,0 +1,18 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Angular
+node_modules/
+dist/
+
+# IDE
+.vscode/
+.idea/
+
+# Mac
+.DS_Store
+
+# Environment Variables
+.env
